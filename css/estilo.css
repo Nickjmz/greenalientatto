@@ -1,0 +1,109 @@
+.container {
+    background: #1d1b1e;
+    background: -moz-linear-gradient(top,  #1d1b1e 0%, #000000 100%);
+    background: -webkit-linear-gradient(top,  #1d1b1e 0%,#000000 100%);
+    background: linear-gradient(to bottom,  #1d1b1e 0%,#000000 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1b1e', endColorstr='#000000',GradientType=0 );
+
+}
+
+.menu {
+
+        display: inline-flex;
+        list-style:none;
+        padding: 0px;
+            
+    }
+
+    .izq {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+    }
+
+    .der {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+    }
+
+
+.b1{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+
+}
+
+.b1:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+.b2{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+
+}
+
+.b2:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+.b3{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+
+}
+
+.b3:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+.b4{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+
+}
+
+.b4:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
