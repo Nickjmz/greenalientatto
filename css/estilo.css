@@ -1,10 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
-
-
 .b1, .b2, .b3, .b4 {
     font-family: 'Changa', sans-serif;
+    color: white;
 }
 
 
@@ -12,8 +8,16 @@
     background-color: black;
 }
 
-a:link, a:visited, a:active {
+a {
     text-decoration:none;
+    color: white;
+    
+}
+a:hover{
+    background-position: right;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
 }
 
 .b1{
@@ -28,6 +32,7 @@ a:link, a:visited, a:active {
     background-position: left;
     transition: background-position 0.5s;
 }
+
 
 .b1:hover {
     background-position: right;
