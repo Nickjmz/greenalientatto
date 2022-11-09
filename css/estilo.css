@@ -4,19 +4,18 @@
     font-size:medium;
 }
 
-.iconosuperior{
-    position: relative;
-}
 
 .navbar{
     background-color: black;
+    position: relative;
+    width: 100%;
 }
 
 a {
     text-decoration:none;
     color: white;
-    
 }
+
 a:hover{
     background-position: right;
     color: black;
