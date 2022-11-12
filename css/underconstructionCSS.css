@@ -1,0 +1,24 @@
+.underconstruction {
+    text-align: center;
+    font-family: 'Changa', sans-serif;
+    color: #4aab27
+}
+
+p{
+    color: #4aab27;
+    font-family: 'Changa', sans-serif;
+}
+
+.underconsruction:hover{
+    color: black;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+body{
+    max-height: auto;
+    max-width: auto;
+}
+
