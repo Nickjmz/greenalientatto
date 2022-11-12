@@ -1,6 +1,5 @@
 .b1, .b2, .b3, .b4 {
     font-family: 'Changa', sans-serif;
-    color: white;
     font-size:medium;
 }
 
@@ -11,7 +10,7 @@
     width: 100%;
 }
 
-a {
+a, a:link, a:visited, a:active{
     text-decoration:none;
     color: white;
 }
@@ -116,6 +115,3 @@ h1{
     text-align: center;
     font-family: 'Changa', sans-serif;
 }
-
-a:link, a:visited, a:active {
-    text-decoration:none; }
