@@ -1,0 +1,121 @@
+.b1, .b2, .b3, .b4 {
+    font-family: 'Changa', sans-serif;
+    color: white;
+    font-size:medium;
+}
+
+
+.navbar{
+    background-color: black;
+    position: relative;
+    width: 100%;
+}
+
+a {
+    text-decoration:none;
+    color: white;
+}
+
+a:hover{
+    background-position: right;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.b1{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+}
+
+
+.b1:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+.b2{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+}
+
+.b2:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+.b3{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+}
+
+.b3:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+.b4{
+    padding: 15px 25px;
+    margin: 20px;
+    font-size: 16px;
+    border: 0px solid #61ff27;
+    color: white;
+    cursor: pointer; 
+    background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+    background-size: 200%;
+    background-position: left;
+    transition: background-position 0.5s;
+}
+
+.b4:hover {
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+
+.card-text{
+    background-position: right;
+    color: black;
+    font-weight: 700;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Changa', sans-serif;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none; }
