@@ -245,3 +245,149 @@ width: 100%;
   float: right;
 
 }
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+
+body{
+  height: 100%; 
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #0000008c; 
+}
+
+
+.contact_form{  
+  width: 460px; 
+  height: auto;
+  margin: 80px auto;
+  border-radius: 10px;  
+  padding-top: 30px;
+  padding-bottom: 20px;  
+  background-color: #fbfbfb; 
+  padding-left: 30px; 
+}
+
+
+input{
+  background-color: #fbfbfb; 
+  width: 408px; 
+  height: 40px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #009e2f; 
+  margin-top: 10px;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+}
+
+
+textarea{
+  background-color: #fbfbfb; 
+  width: 405px; 
+  height: 150px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #0000008c; 
+  margin-top: 10px;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+label{
+  display: block; 
+  float: center;  
+}
+
+
+
+
+button p{
+  color: #fff; 
+}
+
+
+span{
+  color: #009e2f; 
+}
+
+
+.aviso{
+  font-size: 13px;  
+  color: #0e0e0e;  
+}
+
+
+h1{
+  font-size: 39px;  
+  text-align: letf; 
+  padding-bottom: 20px; 
+  color: #23011b;
+}
+
+
+h3{
+  font-size: 16px; 
+  padding-bottom: 30px;
+  color: #0e0e0e;   
+}
+
+
+p{
+  font-size: 14px; 
+  color: #0e0e0e; 
+}
+
+
+::-webkit-input-placeholder {
+ color: #a8a8a8;
+}
+
+
+::-webkit-textarea-placeholder {
+ color: #a8a8a8;
+}
+
+
+.formulario input:focus{
+  outline:0;
+  border: 1px solid #97d848;
+}
+
+
+.formulario textarea:focus{
+  outline:0;
+  border: 1px solid #97d848;
+}
+
+.botonenvio{
+  padding: 15px 25px;
+  margin: 20px;
+  font-size: 20px;
+  border: 0px solid #000000;
+  color: rgb(0, 0, 0);
+  cursor: pointer; 
+  background: linear-gradient(to right, transparent 50%, #61ff27 50%);
+  background-size: 200%;
+  background-position: left;
+  transition: background-position 0.5s;
+}
+
+.botonenvio:hover {
+  background-position: right;
+  color: black;
+  font-weight: 700;
+}
+
+.botonenvio{
+  background-color: #0e0e0e;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  font-size:30px;
+  font-family: 'Changa', sans-serif;
+  color: black;
+  font-size: 30px;
+}
