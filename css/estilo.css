@@ -262,7 +262,7 @@ body{
   border-radius: 10px;  
   padding-top: 30px;
   padding-bottom: 20px;  
-  background-color: #fbfbfb; 
+  background-color: #000000; 
   padding-left: 30px; 
 }
 
@@ -280,7 +280,9 @@ input{
   margin-bottom: 20px; 
 }
 
-
+.aviso{
+  color: white;
+}
 textarea{
   background-color: #fbfbfb; 
   width: 405px; 
@@ -324,20 +326,20 @@ h1{
   font-size: 39px;  
   text-align: letf; 
   padding-bottom: 20px; 
-  color: #23011b;
+  color: #ffffff;
 }
 
 
 h3{
   font-size: 16px; 
   padding-bottom: 30px;
-  color: #0e0e0e;   
+  color: #ffffff;   
 }
 
 
 p{
   font-size: 14px; 
-  color: #0e0e0e; 
+  color: #ffffff; 
 }
 
 
