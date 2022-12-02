@@ -251,7 +251,7 @@ width: 100%;
 body{
   height: 100%; 
   font-family: 'Noto Sans', sans-serif;
-  background-color: #0000008c; 
+  background-color: #00000049; 
 }
 
 
@@ -268,7 +268,7 @@ body{
 
 
 input{
-  background-color: #fbfbfb; 
+  background-color: #d6ffbc; 
   width: 408px; 
   height: 40px; 
   border-radius: 5px;  
@@ -284,7 +284,7 @@ input{
   color: white;
 }
 textarea{
-  background-color: #fbfbfb; 
+  background-color: #d6ffbc; 
   width: 405px; 
   height: 150px; 
   border-radius: 5px;  
@@ -384,12 +384,11 @@ p{
 }
 
 .botonenvio{
-  background-color: #0e0e0e;
+  background-color: #ff9900;
   border-radius: 10px;
   text-align: center;
   position: relative;
   font-size:30px;
   font-family: 'Changa', sans-serif;
-  color: black;
   font-size: 30px;
 }
